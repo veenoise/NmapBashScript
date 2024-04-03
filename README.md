@@ -13,5 +13,5 @@ chmod u+x script.sh
 2. Execute the script
 
 ```
-sudo /script.sh
+sudo ./script.sh
 ```
